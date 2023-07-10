@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url(tumblr_87d196eb78a451def5518c6dca8d046d_4399b997_500.gif);
+}
+#div1{
+    background-color:rgb(49, 231, 222);
+    
+    width: 100%;
+    top: 0;
+}
+#div2{
+    float: left;
+}
+#div3{
+    float: right;
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+#bot{
+    background-color: greenyellow;
+}
+.btn{
+    background-color: white;
+}
